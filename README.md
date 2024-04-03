@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward 
-- 👀 I’m interested in programming basics
-- 🌱 I’m currently learning Obejct Oriented programming with Java and JavaScript
+- 👀 I’m really into programming 
+- 🌱 I’m currently 3 years into it. 
 - 📫 You can reach me through e-mail : nasser.edward1@gmail.com
 
 <!---
