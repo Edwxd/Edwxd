@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward 
 - 👀 I’m really into programming 
-- 🌱 I’m currently 3 years into it. 
+- 🌱 I’m currently 4 years into it. 
 - 📫 You can reach me through e-mail : nasser.edward1@gmail.com
 
 <!---
